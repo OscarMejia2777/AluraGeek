@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>AluraGeek</title>
+</head>
+
+<body>
+    <nav class="menuNav">
+        <img src="image/corazon (2).png" alt="">
+        <p>AluraGeek</p>
+    </nav>
+
+    <main>
+        <div class="contenedorMain">
+            <div class="producto">
+                <h1>Mis Productos:</h1>
+                <div class="contentProducto" data-contentProduct>
+
+                    <!-- Espacio de renderiado de productos -->
+
+                </div>
+
+            </div>
+
+            <div class="agregarProducto">
+                <h1>AGREGAR <br> PRODUCTO:</h1>
+
+
+                    <form class="menuForm">
+                        <input class="inputForm" type="text" placeholder="Nombre" data-input-name>
+                        <input  class="inputForm" type="text" placeholder="Precio" data-input-price>
+                        <input  class="inputForm" type="text" placeholder="Imagen" data-input-imagen>
+                        <div  class="bntEnviarLimpiar">
+                            <input type="submit" class="btnEnviar" value="Enviar" >
+                            <input type="submit" class="btnLimpiar" value="Limpiar">
+                        </div>
+                </form>
+
+            </div>
+
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <div class="titulo">
+            <img src="./image/corazon (2).png" alt="">
+            <p>AluraGeek</p>
+        </div>
+
+        <div class="parrafos">
+            <p> Desarollado por Oscar Mejia</p>
+            <p>Alura Latam - 202X</p>
+        </div>
+
+
+    </footer>
+    <script src="./JS/app.js" type="module"></script>
+    <script src="./JS/PostData.js"></script>
+    <script src="./JS/DeleteCard.js" type="module"></script>
+</body>
+
+</html>

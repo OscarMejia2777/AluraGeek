@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "titulo": "Nintendo Switch",
+      "precio": "$ 300,00",
+      "url_imagen": "https://www.radioshackla.com/media/catalog/product/4/5/458917700016_emtsjlscave4u9kv.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "id": "5",
+      "titulo": "Galaxy Tab S6",
+      "precio": "$ 649,99",
+      "url_imagen": "https://sstoresv.com/wp-content/uploads/2024/03/002_galaxytabs6_lite_oxford_gray_front-1.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Amazon Echo Dot",
+      "precio": "$ 49,99",
+      "url_imagen": "https://www.radioshackla.com/media/catalog/product/4/6/463280700013_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+      "id": "8",
+      "titulo": "Sony PlayStation 5",
+      "precio": "$ 499,99",
+      "url_imagen": "https://walmartsv.vtexassets.com/arquivos/ids/406251/Playstation-5-Standard-Edition-2-17626.jpg?v=638423986396470000"
+    },
+    {
+      "id": "9",
+      "titulo": "MacBook Pro",
+      "precio": "$ 1299,00",
+      "url_imagen": "https://i5.walmartimages.com/seo/2022-Apple-MacBook-Pro-Laptop-M2-chip-13-inch-Retina-Display-8GB-RAM-512GB-SSD-Storage-Touch-Bar-Backlit-Keyboard-FaceTime-HD-Camera-Works-iPhone-iPa_59254575-0ad4-4bac-bb19-a98d170b61d2.a845feb86e81f0aae7db0539c8ee3691.jpeg"
+    },
+    {
+      "id": "10",
+      "titulo": "Dell XPS 13",
+      "precio": "$ 999,99",
+      "url_imagen": "https://m.media-amazon.com/images/I/91MXLpouhoL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "788a",
+      "titulo": "cup head",
+      "precio": "$20",
+      "url_imagen": "https://www.gamebrothersstore.com/wp-content/uploads/2024/04/GUEST_e701e642-a7fc-45a7-8221-13838fcfefc6.jpg"
+    },
+    {
+      "id": "3fb1",
+      "titulo": "play station 4 pro",
+      "precio": "$325",
+      "url_imagen": "https://i5.walmartimages.com/seo/PlayStation-4-Pro-1TB-Gaming-Console-Black-3001510_a8f860fd-2640-4953-aa50-c2b6281af19b_1.59fe324e82c67fbc56b0a59bd62dcb08.jpeg"
+    },
+    {
+      "id": "1ad2",
+      "titulo": "iphone xr",
+      "precio": "$400",
+      "url_imagen": "https://images-cdn.ubuy.co.in/64c4a6c86751b005950567d9-apple-iphone-x-64gb-unlocked-gsm-phone.jpg"
+    }
+  ]
+}
